@@ -8,6 +8,6 @@ https://drive.google.com/drive/folders/1Z-f1gLIG3Wu5af_nlYagRipoKX1g7Cu-?usp=sha
 
 * 作成したデータセット数
 
-| a| Image | Annotation|
+| | Image | Annotation|
 | :-- | :-: | --: |
 | td | td | td |
