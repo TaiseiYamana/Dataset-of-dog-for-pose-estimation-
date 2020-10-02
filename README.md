@@ -10,4 +10,5 @@ https://drive.google.com/drive/folders/1Z-f1gLIG3Wu5af_nlYagRipoKX1g7Cu-?usp=sha
 
 | | Image | Annotation|
 | :-- | :-: | --: |
-| td | td | td |
+| Train| 210 |
+| Verification| 40 |
