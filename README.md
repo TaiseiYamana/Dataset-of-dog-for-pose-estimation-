@@ -6,6 +6,8 @@ https://drive.google.com/drive/folders/1Z-f1gLIG3Wu5af_nlYagRipoKX1g7Cu-?usp=sha
 
 上記のGoogle DriveのURLから自由にダウンロードしてくだいさい。よければダウンロードの目的をIssuesに投稿して欲しいです。
 
+Open Poseの学習にも使用できますが、データ数が少ないので学習ができるかわかりません。
+
 * 作成したデータセット数
 
 | | Image & Annotation|
