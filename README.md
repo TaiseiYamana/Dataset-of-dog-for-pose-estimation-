@@ -12,3 +12,7 @@ https://drive.google.com/drive/folders/1Z-f1gLIG3Wu5af_nlYagRipoKX1g7Cu-?usp=sha
 | :-: | :-: |
 | Train| 210 |
 | Verification| 30 |
+
+* アノテーションに使用したツール
+[COCOAnotater]
+https://github.com/jsbroks/coco-annotator
