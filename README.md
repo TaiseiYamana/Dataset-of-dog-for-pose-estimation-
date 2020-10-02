@@ -10,16 +10,5 @@ https://drive.google.com/drive/folders/1Z-f1gLIG3Wu5af_nlYagRipoKX1g7Cu-?usp=sha
 
 | | Image | Annotation|
 | :-: | :-: |:-:|
-| Train| 210 |>|
-| Verification| 30 |>|
-
-|header1|header2|header3|
-|:--|:-:|--:|
-|hoge|fuga|piyo|
-|hoge||piyo|
-|>|fuga|piyo|
-|hoge|fuga||
-|hoge|>|piyo|
-|hoge|||
-|>|fuga||
-|>|>|piyo|
+| Train| 210 ||
+| Verification| 30 ||
