@@ -22,5 +22,3 @@ https://drive.google.com/drive/folders/1Z-f1gLIG3Wu5af_nlYagRipoKX1g7Cu-?usp=sha
 
 COCO Anotater:
 https://github.com/jsbroks/coco-annotator
-
-<img width="673" alt="スクリーンショット 2020-10-03 5 07 10" src="https://user-images.githubusercontent.com/54575368/94967077-5f97f100-0539-11eb-999f-a58b4b8608d6.png">
