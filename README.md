@@ -1,7 +1,5 @@
 # 柴犬の姿勢推定:Open Poseで実験
-
-![inference](https://github.com/TaiseiYamana/Siba_inu_pose_estimation/assets/54575368/8a5abd5f-28b9-4331-bb65-a09b45860059)
-<img src="https://github.com/TaiseiYamana/Siba_inu_pose_estimation/assets/54575368/8a5abd5f-28b9-4331-bb65-a09b45860059" width="400">
+<img src="https://github.com/TaiseiYamana/Siba_inu_pose_estimation/assets/54575368/8a5abd5f-28b9-4331-bb65-a09b45860059" width="700">
 
 
 ## データセット詳細
